@@ -19,3 +19,6 @@ on the morning of May 1st
 
 我试图复现这个错误，但未成功，用图形界面输入信息时。
 I try to replicate the error without success within the GUI.
+
+请假一天
+take one day leave
