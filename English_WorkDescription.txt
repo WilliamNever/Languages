@@ -28,3 +28,6 @@ Thank you for the information. I would record the meeting and review it later.
 
 字面意思：非常昂贵，不利于性能
 very expensive, not good for performance
+
+据推测
+It is assumed that ...
