@@ -31,3 +31,6 @@ very expensive, not good for performance
 
 据推测
 It is assumed that ...
+
+looking at与look at 区别
+前者是形容词,后者是动词,后者一般都是别人命令某人look at ,前者是自己正处looking at这个恣态 
