@@ -46,3 +46,6 @@ get stuck in
 开始起劲地做某事
 stuck adj. 卡的，卡于。。。。
 I’m trying to make progress but I’m getting stuck doing a lot of different things. 
+
+The returned orders is inconsistent with the number of requests.
+be inconsistent with...什么与什么不一致。
